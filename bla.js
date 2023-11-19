@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
       case 'PPA':
         return 'PPA'; // Substitua 'Outra Sala' pela lógica específica
       case 'PPB':
-        return 'Outra Sala'; // Substitua 'Outra Sala' pela lógica específica
+        return 'PPB'; // Substitua 'Outra Sala' pela lógica específica
       // Adicione casos para outras salas, se necessário
       default:
         return '';
