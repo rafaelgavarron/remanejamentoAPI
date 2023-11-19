@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Pode ser mais elaborado dependendo dos requisitos
     switch (salaOrigem) {
       case 'PPA':
-        return 'Outra Sala'; // Substitua 'Outra Sala' pela lógica específica
+        return 'PPA'; // Substitua 'Outra Sala' pela lógica específica
       case 'PPB':
         return 'Outra Sala'; // Substitua 'Outra Sala' pela lógica específica
       // Adicione casos para outras salas, se necessário
